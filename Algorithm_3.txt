@@ -1,1 +1,15 @@
-
+Ask the user to enter a number, 'm'
+Ask the user to enter a number, 'n'
+Ask the user to enter op1, op2, op3, op4, op5
+SET op1 to "+"
+SET op2 to "-"
+SET op3 to "*"
+SET op4 to "/"
+SET op5 to "%"
+IF op1 is selected THEN
+   PRINT "m+n"
+IF op2 is selected THEN
+   PRINT "m-n"
+IF op3 is selected THEN
+   PRINT "m*n"
+IF op4 is selected THEN
