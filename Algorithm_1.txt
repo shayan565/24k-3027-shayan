@@ -1,0 +1,11 @@
+Ask the user to enter a number, 'N'
+Ask the user to enter a number, 'n'
+set Division to n/N
+IF Division is not a whole number THEN
+   DISPLAY "Not a divisor"
+ELSE
+   DISPLAY "Is a divisor"
+IF Division ends with a set {1,3,5,7,9} THEN
+   DISPLAY "Odd"
+ELSE
+   DISPLAY "Even"
