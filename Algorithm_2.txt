@@ -1,0 +1,14 @@
+SET 1 to "january"
+SET 2 to "february"
+SET 3 to "march"
+SET 4 to "april'
+SET 5 to "may"
+SET 6 to "june"
+SET 7 to "july"
+SET 8 to "august"
+SET 9 to "september"
+SET 10 to "october"
+SET 11 to "november"
+SET 12 to "december"
+Ask the user to enter a number between 1 to 12
+DISPLAY month according to the number
