@@ -1,0 +1,11 @@
+START
+INPUT number1
+INPUT number2
+INPUT number3
+IF number1 > number2 AND number1 > number3 THEN
+  PRINT "number1 is the highest"
+IF number2 > number1 AND number2 > number3 THEN 
+  PRINT "number2 is the highest"
+ELSE
+  PRINT "number3 is the highest"
+END
