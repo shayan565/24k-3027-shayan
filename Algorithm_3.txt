@@ -6,13 +6,8 @@ SET op2 to "-"
 SET op3 to "*"
 SET op4 to "/"
 SET op5 to "%"
-IF op1 is selected THEN
-   PRINT "m+n"
-IF op2 is selected THEN
-   PRINT "m-n"
-IF op3 is selected THEN
-   PRINT "m*n"
-IF op4 is selected THEN
-   PRINT "m/n"
-IF op5 is selected THEN
-   PRINT "m%n"
+IF op1 is selected THEN, PRINT "m+n"
+IF op2 is selected THEN, PRINT "m-n"
+IF op3 is selected THEN, PRINT "m*n"
+IF op4 is selected THEN, PRINT "m/n"
+IF op5 is selected THEN, PRINT "m%n"
