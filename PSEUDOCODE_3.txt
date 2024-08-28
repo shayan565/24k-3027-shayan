@@ -1,0 +1,13 @@
+START
+INPUT number1
+INPUT number2
+INPUT a 
+INPUT b
+SET a to "+"
+SET b to "-"
+IF a THEN
+  PRINT "number1 + number2"
+IF b THEN
+  PRINT "number1 - number2"
+ELSE
+  PRINT "Invalid"
